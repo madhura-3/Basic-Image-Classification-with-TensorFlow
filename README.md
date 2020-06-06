@@ -10,6 +10,6 @@
    - [x] Trained the model to fit the dataset.
    - [x] Evaluated the model.
    - [x] Visualized the predictions.
- #  
+ 
  ![](images/1_1.png)
  
